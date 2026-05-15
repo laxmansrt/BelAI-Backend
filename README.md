@@ -201,12 +201,6 @@ All of this. On a feature phone. In his mother tongue. In under 3 minutes.
 - MongoDB Atlas account (free M0 cluster)
 - API Keys: Groq, Gemini, Twilio, Google OAuth
 
-### 1️⃣ Clone
-```bash
-git clone https://github.com/laxmansrt/sjcit-hack.git
-cd sjcit-hack
-```
-
 ### 2️⃣ Backend
 ```bash
 cd backend
